@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#cloud9
+*.c9
+*.~c9*
+
+#virtualenv
+language-detector-env/
